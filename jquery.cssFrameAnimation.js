@@ -1,11 +1,16 @@
-/**
- * @author Ken
- * ken210.com / @ken_rosaka
- * version 0.3 - 05-09-2011
+/*
+ * Copyright (C) 2011 Ken Rosaka
+ * All rights reserved.
  * 
- * emulate a timeline based animation using css classes
- * updates, examples and usage: https://github.com/ken210/
+ * jquery.cssFrameAnimation - A jQuery plugin to emulate a timeline base animation using css classes
  * 
+ * Author: Ken Rosaka (ken210.com / @ken_rosaka)
+ * Version: 0.3 alpha
+ * Created: 2011-04-29
+ * Release: 2011-05-09
+ * License: http://www.gnu.org/licenses/gpl.html
+ * 
+ * Updates, examples and usage: http://github.com/ken210/jquery.cssFrameAnimation
  */
 
 (function($){
